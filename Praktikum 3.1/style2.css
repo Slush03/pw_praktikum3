@@ -4,7 +4,7 @@ body{
 
 .header{
     background: lightcoral;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
     font-size: 35px;
 }
@@ -49,18 +49,18 @@ h3{
     width: 900px;
 }
 
-.Sidebar{
+.sidebar{
     float: left;
     background: lightskyblue;
     padding: 31px;
     width: 382px;
 }
 
-.Sidebar h3{
+.sidebar h3{
     margin-left: 30px;
 }
 
-.Sidebar p{
+.sidebar p{
     margin-left: 30px;
 }
 
